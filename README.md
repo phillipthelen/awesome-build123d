@@ -20,7 +20,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 
 * [bd_animation](https://github.com/bernhard-42/bd_animation) - Animation class and tutorials for build123d 
-* [bd_warehouse](https://github.com/gumyr/bd_warehouse) - bd_warehouse augments build123d with parametric parts - generated on demand - and extensions to the core biuld123d capabilities.
+* [bd_warehouse](https://github.com/gumyr/bd_warehouse) - bd_warehouse augments build123d with parametric parts - generated on demand - and extensions to the core build123d capabilities.
 * [dl4to4ocp](https://github.com/yeicor-3d/dl4to4ocp) - Library that helps perform [topology optimization](https://en.wikipedia.org/wiki/Topology_optimization) on
 your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https://github.com/CadQuery/cadquery)/[Build123d](https://github.com/gumyr/build123d)/...) using the [dl4to](https://github.com/dl4to/dl4to) library.
  ![Tests](https://github.com/yeicor-3d/dl4to4ocp/actions/workflows/test.yml/badge.svg?branch=master)
@@ -43,7 +43,6 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 ## Examples and Projects using build123d
 * [custom-keycap-generator](https://github.com/nicola-sorace/custom-keycap-generator) - Generate custom print-ready keycap geometries using Python and build123d
 * [BlueDrink9/keeb_snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Create a cool PCB case and travel case for split keyboards or other custom PCBs
-
 
 ## Tutorials and Documentation
 
