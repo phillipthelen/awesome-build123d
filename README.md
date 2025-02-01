@@ -25,7 +25,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https://github.com/CadQuery/cadquery)/[build123d](https://github.com/gumyr/build123d)/...) using the [dl4to](https://github.com/dl4to/dl4to) library.
  ![Tests](https://github.com/yeicor-3d/dl4to4ocp/actions/workflows/test.yml/badge.svg?branch=master)
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
-
+* [gggears](https://github.com/GarryBGoode/gggears) create all kinds of gear models
 
 ## Part Libraries and Part Generators
 
