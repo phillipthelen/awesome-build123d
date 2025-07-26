@@ -13,7 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [BlendQuery](https://github.com/uki-dev/blendquery) - build123d integration for Blender.
 * [Jupyter-CadQuery](https://github.com/bernhard-42/jupyter-cadquery) - View build123d objects in JupyterLab or in a standalone viewer for any IDE.
 * [OCP VSCode CAD Viewer](https://github.com/bernhard-42/vscode-ocp-cad-viewer) - A viewer for OCP based Code-CAD (CadQuery, build123d) integrated into VS Code
-* [Yet Another CAD Viewer](https://github.com/yeicor-3d/yet-another-cad-viewer) - A CAD viewer capable of displaying [OCP](https://github.com/CadQuery/OCP) models ([CadQuery](https://github.com/CadQuery/cadquery)/[build123d](https://github.com/gumyr/build123d)/...) in a web browser.
+* [Yet Another CAD Viewer](https://github.com/yeicor-3d/yet-another-cad-viewer) - A web-based CAD viewer for OCP models (CadQuery/build123d) that supports static site deployment. It also has a build123d playground for editing and sharing models directly in the browser ([demo](https://yeicor-3d.github.io/yet-another-cad-viewer/#pg_code_url=https://raw.githubusercontent.com/gumyr/build123d/refs/heads/dev/examples/toy_truck.py)) ![Tests](https://github.com/yeicor-3d/yet-another-cad-viewer/actions/workflows/build.yml/badge.svg?branch=master)
 
 
 ## Extensions and Plugins
@@ -38,6 +38,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 
 
 * [ocp-action](https://github.com/Yeicor/ocp-action/) - GitHub Action that builds OCP models (CadQuery/build123d/...), renders them and sets up a model viewer on Github Pages. ![Tests](https://github.com/Yeicor/ocp-action/actions/workflows/ci.yml/badge.svg?branch=main)
+* [OCP.wasm](https://github.com/Yeicor/OCP.wasm) This project ports the low-level dependencies required for build123d to run in a browser. For a fully featured frontend, check out `Yet Another CAD Viewer` (see above). ![Tests](https://github.com/Yeicor/OCP.wasm/actions/workflows/main.yml/badge.svg?branch=master)
 
 
 ## Examples and Projects using build123d
