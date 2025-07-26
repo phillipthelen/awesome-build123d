@@ -27,6 +27,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [ocp-freecad-cam](https://github.com/voneiden/ocp-freecad-cam) CAM for CadQuery and build123d by leveraging FreeCAD library. Visualizes in CQ-Editor and ocp-cad-viewer. Spiritual successor of [cq-cam](https://github.com/voneiden/cq-cam)
 * [gggears](https://github.com/GarryBGoode/gggears) create all kinds of gear models
 
+
 ## Part Libraries and Part Generators
 
 
@@ -37,7 +38,6 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 ## Miscellaneous
 
 
-* [ocp-action](https://github.com/Yeicor/ocp-action/) - GitHub Action that builds OCP models (CadQuery/build123d/...), renders them and sets up a model viewer on Github Pages. ![Tests](https://github.com/Yeicor/ocp-action/actions/workflows/ci.yml/badge.svg?branch=main)
 * [OCP.wasm](https://github.com/Yeicor/OCP.wasm) This project ports the low-level dependencies required for build123d to run in a browser. For a fully featured frontend, check out `Yet Another CAD Viewer` (see above). ![Tests](https://github.com/Yeicor/OCP.wasm/actions/workflows/main.yml/badge.svg?branch=master)
 
 
