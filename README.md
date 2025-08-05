@@ -1,7 +1,7 @@
 # Awesome build123d
 
 
-A curated list of build123d code and resources. Inspired by other lists like [awesome-cadquery](https://github.com/CadQuery/awesome-cadquery).
+A curated list of [build123d](https://github.com/gumyr/build123d) code and resources. Inspired by other lists like [awesome-cadquery](https://github.com/CadQuery/awesome-cadquery).
 
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
