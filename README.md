@@ -58,3 +58,4 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 
 
 * [Official Documentation](https://build123d.readthedocs.io/en/latest/)
+* [Alternate setup](https://gist.github.com/mtancoigne/9e2b7cdfb13f2c5a2a405cfb059e9b87) with `ocp_vscode`, without VSCode
