@@ -38,6 +38,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [experimentslabs/3d/bd_beams_and_bars](https://gitlab.com/experimentslabs/3d/bd_beams_and_bars) - Construction beams and bars - [docs](https://bd-beams-and-bars.3d.experimentslabs.com/) ![Tests](https://gitlab.com/experimentslabs/3d/bd_beams_and_bars/badges/main/pipeline.svg) 
 * [experimentslabs/3d/bd_tube_boxes](https://gitlab.com/experimentslabs/3d/bd_tube_boxes) - Create boxes from old tubes - [docs](https://bd-tube-boxes.3d.experimentslabs.com)
 * [GarryBGoode/py_gearworks](https://github.com/GarryBGoode/py_gearworks)  - create all kinds of gear models
+* [pzfreo/wormgear](https://github.com/pzfreo/wormgear) - Worm gear design with engineering calculations (DIN 3975/3996) and CNC-ready STEP file generation. Includes a web calculator at wormgear.studio. ![CI](https://github.com/pzfreo/wormgear/actions/workflows/ci.yml/badge.svg?branch=main)
 * [Ruudjhuu/gridfinity_build123d](https://github.com/Ruudjhuu/gridfinity_build123d) - Create gridfinity items with build123d
 * [gumyr/bd_warehouse](https://github.com/gumyr/bd_warehouse) - Augments build123d with parametric parts - generated on demand - and extensions to the core build123d capabilities.
 * [keeeal/bd-vslot](https://github.com/keeeal/bd-vslot) - A library of V-Slot linear rail components - [docs](https://bd-vslot.readthedocs.io/)
