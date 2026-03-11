@@ -19,6 +19,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 * [bernhard-42/Jupyter-CadQuery](https://github.com/bernhard-42/jupyter-cadquery) - View build123d objects in JupyterLab or in a standalone viewer for any IDE.
 * [bernhard-42/vscode-ocp-cad-viewer](https://github.com/bernhard-42/vscode-ocp-cad-viewer) - OCP VSCode CAD Viewer for OCP based Code-CAD (CadQuery, build123d) integrated into VS Code.
+* [pzfreo/maquetto](https://github.com/pzfreo/maquetto) - AI-driven code CAD editor using Python and build123d. ![CI](https://github.com/pzfreo/maquetto/actions/workflows/ci.yml/badge.svg?branch=main)
 * [yeicor-3d/yet-another-cad-viewer](https://github.com/yeicor-3d/yet-another-cad-viewer) - A web-based CAD viewer for OCP models (CadQuery/build123d) that supports static site deployment. It also has a build123d playground for editing and sharing models directly in the browser ([demo](https://yeicor-3d.github.io/yet-another-cad-viewer/#pg_code_url=https://raw.githubusercontent.com/gumyr/build123d/refs/heads/dev/examples/toy_truck.py)) ![Tests](https://github.com/yeicor-3d/yet-another-cad-viewer/actions/workflows/build.yml/badge.svg?branch=master)
 
 
