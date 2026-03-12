@@ -52,7 +52,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [bernhard-42/tcv_screenshots](https://github.com/bernhard-42/tcv_screenshots) - Headless screenshot generator for three-cad-viewer. Render 3D CAD models to PNG screenshots.
 * [jdegenstein/build123d-f3d-render](https://github.com/jdegenstein/build123d-f3d-render) - headless automatic rendering of build123d models to PNG using f3d within CI (GitHub Actions)
 * [jdegenstein/filewatcher123d](https://github.com/jdegenstein/filewatcher123d) - A file watcher oriented towards use with build123d and ocp_vscode (standalone mode, no VSCode required)
-* [pzfreo/fabprint](https://github.com/pzfreo/fabprint) - Headless 3D print pipeline: arrange parts on a build plate, slice to gcode, and send to a Bambu Lab printer — all from a TOML config file. ![CI](https://github.com/pzfreo/fabprint/actions/workflows/ci.yml/badge.svg?branch=main)
+* [pzfreo/fabprint](https://github.com/pzfreo/fabprint) - Headless 3D print pipeline: arrange parts on a build plate, slice to gcode, and send to a Bambu Lab printer — all from a TOML config file. Uses build123d.![CI](https://github.com/pzfreo/fabprint/actions/workflows/ci.yml/badge.svg?branch=main)![AI-Synthesized](https://img.shields.io/badge/AI-Synthesized-blueviolet?style=flat-square "The majority of this codebase was generated using AI models based on human architectural design.")
 * [Yeicor/OCP.wasm](https://github.com/Yeicor/OCP.wasm) This project ports the low-level dependencies required for build123d to run in a browser. For a fully featured frontend, check out `Yet Another CAD Viewer` (see above). ![Tests](https://github.com/Yeicor/OCP.wasm/actions/workflows/main.yml/badge.svg?branch=master)
 
 
