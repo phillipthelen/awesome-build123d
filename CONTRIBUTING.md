@@ -14,6 +14,10 @@ If you want to add an entry to the `README.md` please consider these things:
     * If the project has a CI build, please add the build badge. Put the image after the description, separated by a space. Please make sure to add the branch information to the image:
         * For Github actions please see [adding-a-workflow-status-badge](https://docs.github.com/en/actions/managing-workflow-runs/adding-a-workflow-status-badge)
 - Please pay attention to the alphabetical ordering.
+- If the code in this repository was mostly written by AI, then please add this badge to the end of your entry: ![AI-Synthesized](https://img.shields.io/badge/AI-Synthesized-blueviolet?style=flat-square "The majority of this codebase was generated using AI models based on human architectural design.")
+    ```
+    ![AI-Synthesized](https://img.shields.io/badge/AI-Synthesized-blueviolet?style=flat-square "The majority of this codebase was generated using AI models based on human architectural design.")
+    ```
 
 ## Removing projects
 
