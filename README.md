@@ -14,11 +14,6 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [jojain/build123d-sandbox](https://github.com/jojain/build123d-sandbox) - Interactive CAD Design in the Browser - A powerful web-based sandbox for creating 3D models using Python and build123d, powered by pyodide and WebAssembly. Runs fully in your browser. Visit the live application [here](https://jojain.github.io/build123d-sandbox/).
 
 
-## Manufacturing as Code Platform and Tooling
-
-* [MakerRepo.com](https://makerrepo.com/) - A GitHub-like platform for [manufacturing as code](https://blog.makerrepo.com/blog/2026/01/12/manufacturing-as-code-is-the-future/) where build123d repositories (including artifacts and web-based generators) are built in CI and published as shareable CAD outputs.
-* [MakerRepo Library (`MakerRepo`, the `mr` package)](https://docs.makerrepo.com/makerrepo-library/) - Python library for exposing build123d model functions as MakerRepo artifacts (for example with `@artifact`) and defining reusable generators (for example with `@generator`).
-* [MakerRepo CLI (`makerrepo-cli`, the `mr` command)](https://docs.makerrepo.com/makerrepo-cli/) - Command-line tooling to run MakerRepo workflows on build123d projects annotated with the MakerRepo Library, including viewing outputs, exporting files, creating snapshots, and other useful project operations locally or in automation.
 
 ## Editors and IDEs
 
@@ -50,6 +45,13 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 * [larssont/capistry](https://github.com/larssont/capistry) - A Python package for parametric 3D modeling of keyboard keycaps using build123d
 * [ndevenish/gflabel](https://github.com/ndevenish/gflabel) - Generates 3d-printable labels for gridfinity label systems
 * [PaulBone/gfthings](https://github.com/PaulBone/gfthings) - A tool to generate gridfinity compatible objects like bins, grids, base edges, and pins
+
+
+## Developer Platform and Tooling
+
+* [MakerRepo.com](https://makerrepo.com/) - A GitHub-like platform for [manufacturing as code](https://blog.makerrepo.com/blog/2026/01/12/manufacturing-as-code-is-the-future/) where build123d repositories (including artifacts and web-based generators) are built in CI and published as shareable CAD outputs.
+* [MakerRepo Library (`MakerRepo`, the `mr` package)](https://docs.makerrepo.com/makerrepo-library/) - Python library for exposing build123d model functions as MakerRepo artifacts (for example with `@artifact`) and defining reusable generators (for example with `@generator`).
+* [MakerRepo CLI (`makerrepo-cli`, the `mr` command)](https://docs.makerrepo.com/makerrepo-cli/) - Command-line tooling to run MakerRepo workflows on build123d projects annotated with the MakerRepo Library, including viewing outputs, exporting files, creating snapshots, and other useful project operations locally or in automation.
 
 
 ## Miscellaneous
