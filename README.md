@@ -50,8 +50,8 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 ## Developer Platform and Tooling
 
 * [MakerRepo.com](https://makerrepo.com/) - A GitHub-like platform for [manufacturing as code](https://blog.makerrepo.com/blog/2026/01/12/manufacturing-as-code-is-the-future/) where build123d repositories (including artifacts and web-based generators) are built in CI and published as shareable CAD outputs.
-* [LaunchPlatform/MakerRepo](https://github.com/LaunchPlatform/MakerRepo) - Python library for exposing build123d model functions as MakerRepo artifacts (for example with `@artifact`) and defining reusable generators (for example with `@generator`).
-* [LaunchPlatform/makerrepo-cli](https://github.com/LaunchPlatform/makerrepo-cli) - Command-line tooling to run MakerRepo workflows on build123d projects annotated with the MakerRepo Library, including viewing outputs, exporting files, creating snapshots, and other useful project operations locally or in automation.
+* [LaunchPlatform/MakerRepo](https://github.com/LaunchPlatform/MakerRepo) - Python library for exposing build123d model functions as MakerRepo artifacts (for example with `@artifact`) and defining reusable generators (for example with `@generator`). ![CircleCI](https://dl.circleci.com/status-badge/img/gh/LaunchPlatform/MakerRepo/tree/master.svg?style=svg)
+* [LaunchPlatform/makerrepo-cli](https://github.com/LaunchPlatform/makerrepo-cli) - Command-line tooling to run MakerRepo workflows on build123d projects annotated with the MakerRepo Library, including viewing outputs, exporting files, creating snapshots, and other useful project operations locally or in automation. ![CircleCI](https://dl.circleci.com/status-badge/img/gh/LaunchPlatform/makerrepo-cli/tree/master.svg?style=svg)
 
 
 ## Miscellaneous
