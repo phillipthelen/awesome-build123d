@@ -13,7 +13,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 * [jdegenstein/build123d-portable](https://github.com/jdegenstein/build123d-portable) - A cross-platform portable build123d installation with VSCode, OCP CAD Viewer, and python bundled together. Provides a quick download, unzip, and run experience -- [releases page](https://github.com/jdegenstein/build123d-portable/releases).
 * [jojain/build123d-sandbox](https://github.com/jojain/build123d-sandbox) - Interactive CAD Design in the Browser - A powerful web-based sandbox for creating 3D models using Python and build123d, powered by pyodide and WebAssembly. Runs fully in your browser. Visit the live application [here](https://jojain.github.io/build123d-sandbox/).
 * [jdegenstein/build123d-core-portable](https://github.com/jdegenstein/build123d-core-portable) - A cross-platform portable build123d installation with filewatcher123d, OCP CAD Viewer, and python bundled together -- bring your own editor and browser. Provides a quick download, unzip, and run experience -- [releases page](https://github.com/jdegenstein/build123d-core-portable/releases).
-
+* [smkent/bdbox](https://github.com/smkent/bdbox) - Workshop for previewing, parameterizing, and exporting build123d models (OCP CAD Viewer included) - [docs](https://smkent.github.io/bdbox/) [![PyPI](https://img.shields.io/pypi/v/bdbox)](https://pypi.org/project/bdbox/) [![CI](https://github.com/smkent/bdbox/actions/workflows/ci.yaml/badge.svg)](https://github.com/smkent/bdbox/actions/workflows/ci.yaml)
 
 ## Editors and IDEs
 
