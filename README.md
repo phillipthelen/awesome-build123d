@@ -68,6 +68,7 @@ your [OCP](https://github.com/CadQuery/OCP)-based CAD models ([CadQuery](https:/
 
 
 * [BlueDrink9/keeb_snakeskin](https://github.com/BlueDrink9/keeb_snakeskin) - Create a cool PCB case and travel case for split keyboards or other custom PCBs
+* [claude-gets-a-body/claude-body](https://github.com/claude-gets-a-body/claude-body) - A 38-part, 3D-printable home robot whose build script fails unless 21 fit and safety checks pass: parts slid along their real assembly paths, pinch gaps over the full head range of motion, and tip-over on the real support polygon. Designed, not yet printed. ![AI-Synthesized](https://img.shields.io/badge/AI-Synthesized-blueviolet?style=flat-square "The majority of this codebase was generated using AI models based on human architectural design.")
 * [ginkgo/trackball](https://github.com/ginkgo/trackball) - 3d-printable twist-to-scroll trackball using a Raspberry Pi Pico and two PMW3360 sensors designed using build123d
 * [jgraichen/someline](https://github.com/jgraichen/someline) - 3D printable insets for some Someline® storage boxes designed using build123d
 * [nicola-sorace/custom-keycap-generator](https://github.com/nicola-sorace/custom-keycap-generator) - Generate custom print-ready keycap geometries using Python and build123d
